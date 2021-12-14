@@ -1,6 +1,6 @@
 # poorMBSE
 
-テキストファイルとExcelとVBAによって実現する貧乏人のMBSEのプロジェクトです。
+MBSEをテキストファイルとExcelとVBAによって実現する貧乏人のプロジェクトです。
 
 TODO)
 
