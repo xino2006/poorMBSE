@@ -9,11 +9,11 @@ VER:A
 
 func:turn_on
 {
-  
+  Objects.heater=ON
 }
 
 func:turn_off
 {
-  
+  Objects.heater=OFF
 }
 
