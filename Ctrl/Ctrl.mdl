@@ -5,3 +5,15 @@ name:温度制御
 ID:0001
 VER:A
 
+#
+
+func:turn_on
+{
+  
+}
+
+func:turn_off
+{
+  
+}
+
